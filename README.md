@@ -4,7 +4,7 @@
 
 ## Trabalho com educação de jovens e adultos
 
-[link] http//guithub.com
+[link]http//guithub.com
 
 [e-maisl](rosilei.rocha@escola.pr.gov.br)
 
