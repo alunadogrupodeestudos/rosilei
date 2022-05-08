@@ -1,6 +1,6 @@
 ### Olá
 
-# sou eu professora Rosilei, estou estudando Scracth e java scripte-mais]
+# sou eu professora Rosilei, estou estudando Scracth e java script
 
 ## trabalho com educação de jovens e adultos
 
